@@ -1,0 +1,17 @@
+header.header-area {
+    background-image: url(https://images.unsplash.com/photo-1614607660006-945b019c188a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+p {
+    font-size: 16px;
+    font-weight: lighter;
+    margin: 0;
+}
+nav.navbar.navbar-expand-lg.navbar-dark.dn.bg-dark {
+    background-color: hsla(210, 11%, 15%, 0.49)!important;
+}
